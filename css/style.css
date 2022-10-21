@@ -1,0 +1,30 @@
+body {
+  background-color: #cfdfff;
+}
+
+.wrapper {
+  border: 4px solid white;
+  padding: 10px 20px;
+  border-radius: 8px;
+  background-color: #1f2937;
+  box-shadow: 8px 8px 26px #acb9d4, -8px -8px 26px #f2ffff;
+  color: #fff;
+}
+
+.wrapper h4 {
+  font-weight: 600;
+  margin: 10px 0;
+}
+
+.wrapper input {
+  background-color: #273549;
+  border: none;
+}
+
+.wrapper input[type="submit"],
+button {
+  display: block;
+  background-color: #10b981;
+  border: none;
+  color: white;
+}
